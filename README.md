@@ -11,3 +11,13 @@ Being a recent graduate, I simply was curious. I decided to apply some of my ski
 - In this project data will be collected from US Department of Agriculture Economic Research Service on Unemployment, Median Household Income, and Education Attainment
 - Raw data will be cleaned and manipulated for visualization and model development
 - Lastly, models and visualizations will be translated and interpreted to give data meaning in context of our research question.
+
+# Data Cleaning
+- Load the excel files (education and unemployment/income data) into dataframes
+- Extract from the dataframes only the columns needed
+- Rename the columns so they're easier to manipulate and interpret
+- Create a function that let's you insert the state abbreviation and return a dataframe needed for this
+- Below is an example of the result
+
+**Picture of function and dataframe**
+
