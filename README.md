@@ -34,4 +34,4 @@ Being a recent graduate, I simply was curious. I decided to apply some of my ski
 - Now, we pull the correlation metrics that we want for each state by creating that iterates through each state abbreviation and returns a dataframe with the state, correlation between bachelor's degree (%) vs Unemployment Rate 2018, and bachelor's degree (%) vs. Median Household Income 2018.
 Exampe of what was done is see below
 
-**picture of state dataframe**
+    **picture of state dataframe**
