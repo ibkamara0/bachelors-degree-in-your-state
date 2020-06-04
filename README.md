@@ -23,9 +23,15 @@ Being a recent graduate, I simply was curious. I decided to apply some of my ski
 
 # Exploratory Data Analysis
 - Create a correlation matrix to show the correlation between the varialbles
-- Represent the correlation matrix in a heatmap (this was done for fun!). Below you can see and explanation and visual representation of the heatmap
+- Represent the correlation matrix in a heatmap (this was done for fun!). Below you can see and explanation and visual representation of the heatmap for New York
   - With correlation shows how variables are related on a scale of -1 to 1:
     - **1 = Positive correlation:**  indicating a perfect positive correlation meaning as one variable increase so does the other. 
     - **-1 = Negative correlation:** meaning the opposite as one increases the other variable decreases. 
     - **0 = No correlation:**  Meaning that the two variable have no relationship
-   
+    
+    **picture of heatmap**
+ - We can see correlation between people with a bachlor's degree(%) and unemployment or median household income measured and visualized in the heatmap
+- Now, we pull the correlation metrics that we want for each state by creating that iterates through each state abbreviation and returns a dataframe with the state, correlation between bachelor's degree (%) vs Unemployment Rate 2018, and bachelor's degree (%) vs. Median Household Income 2018.
+Exampe of what was done is see below
+
+**picture of state dataframe**
