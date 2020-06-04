@@ -30,8 +30,23 @@ Being a recent graduate, I simply was curious. I decided to apply some of my ski
     - **0 = No correlation:**  Meaning that the two variable have no relationship
     
     **picture of heatmap**
- - We can see correlation between people with a bachlor's degree(%) and unemployment or median household income measured and visualized in the heatmap
+ - We can see correlation between people with a bachlor's degree(%) and unemployment or median household income measured and visualized in the heatmap. We can see that New York has a positive correlation for percentage of people with bachelor's degrees in an area and median household income. This means in the state of new york the higher the percent of people in an area contribute to a higher median household income
 - Now, we pull the correlation metrics that we want for each state by creating that iterates through each state abbreviation and returns a dataframe with the state, correlation between bachelor's degree (%) vs Unemployment Rate 2018, and bachelor's degree (%) vs. Median Household Income 2018.
-Exampe of what was done is see below
+Example of what was done is see below
 
-      **picture of state dataframe**
+   **picture of state dataframe**
+   
+# Results
+- Now we're ready to visualize the results
+- A choropleth map was created to display the correlation between bachelor's degree vs unemployment and median household income of each state
+- Below is a representation of which states have the highest correlation between bachelor's degree(%) and median household income. 
+  **income choropleth map**
+- This means that if we take a state like california with high correlation we can visually see how the percentage of people with bachelor's degree affects the median household income.(Seen below)
+**california correlation**
+- Let's do the same with the unemployment rate
+**unemployment choropleth map**
+- Again, looking at california you see how percentage of people with bachelor's degrees affect the unemployment rate in that state. (Seen below)
+**california correlation**
+
+# Conclusion
+- Based on the research it can be said that having a bachelor's degree can have an affect on the unemployment rate and median household income, but only in certain states.
