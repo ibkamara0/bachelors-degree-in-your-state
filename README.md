@@ -40,11 +40,11 @@ Example of what was done is see below
 - Now we're ready to visualize the results
 - A choropleth map was created to display the correlation between bachelor's degree vs unemployment and median household income of each state
 - Below is a representation of which states have the highest correlation between bachelor's degree(%) and median household income. 
-  ![income choropleth map](file:///C:/Users/Ibrahim%20Kamara/Desktop/Education%20vs.%20Income/UnemploymentCorrelation.html)
+  ![income choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/IncomeMap.JPG)
 - This means that if we take a state like california with high correlation we can visually see how the percentage of people with bachelor's degree affects the median household income.(Seen below)
 ![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/CaliIncome.png)
 - Let's do the same with the unemployment rate
-**unemployment choropleth map**(https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/State%20Dataframe.JPG)
+![unemployment choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/unemploymentMap.JPG)
 - Again, looking at california you see how percentage of people with bachelor's degrees affect the unemployment rate in that state. (Seen below)
 ![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/CaliUnemployment.png)
 
@@ -52,5 +52,6 @@ Example of what was done is see below
 - Based on the research it can be said that having a bachelor's degree can have an affect on the unemployment rate and median household income, but only in certain states.
 
 # Resources and Code
-- **Link to dataset:** aldkfjasdfaosf asf
-- **Link to my jupyter notebook:** fakdsfj;lajsfdlk;as jdfasd;f
+- **Link to dataset:** https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+- **Link to my jupyter notebook:** https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/Data%20Cleaning.ipynb
+- **United State GeoJSON file:** https://github.com/python-visualization/folium/blob/master/tests/us-states.json
