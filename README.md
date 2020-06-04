@@ -50,3 +50,7 @@ Example of what was done is see below
 
 # Conclusion
 - Based on the research it can be said that having a bachelor's degree can have an affect on the unemployment rate and median household income, but only in certain states.
+
+# Resources and Code
+- **Link to dataset:** aldkfjasdfaosf asf
+- **Link to my jupyter notebook:** fakdsfj;lajsfdlk;as jdfasd;f
