@@ -19,7 +19,7 @@ Now for a little background on this project. Being a recent graduate and wanted 
 - Create a function that let's you insert the state abbreviation and return a dataframe needed for this
 - Below is you see the results of running the function:
 
-  ![Area Dataframe](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/Dataframe.JPG)
+  ![Area Dataframe](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/Dataframe.JPG)
 
 # Exploratory Data Analysis
 - Create a correlation matrix to show the correlation between the variables
@@ -29,24 +29,24 @@ Now for a little background on this project. Being a recent graduate and wanted 
     - **-1 = Negative correlationn (light blue):** meaning the opposite as one increases the other variable decreases. 
     - **0 = No correlation (black):**  Meaning that the two variable have no relationship
     
-    ![heatmap](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/heatmap.JPG)
+    ![heatmap](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/heatmap.JPG)
  - We can see correlation between Percentage of People with Bachelor's Degrees by Area vs. Unemployment or Median Household Income measured and visualized in the heatmap. We can see that New York, has a positive correlation for Percentage of People with Bachelor's Degreess by Area vs. Median Household Income. This means in the state of New York the higher the percent of people with a bachelor's degrees in an area the higher the median household income
 - Now, we pull the correlation metrics that we want for each state by creating a function that iterates through each state abbreviation and returns a dataframe with the state, correlation between Bachelor's Degrees by Area (%) vs Unemployment Rate 2018, and Bachelor's Degrees by Area (%) vs. Median Household Income 2018.
 Example of what was done is see below
 
-   ![state dataframe](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/State%20Dataframe.JPG)
+   ![state dataframe](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/State%20Dataframe.JPG)
    
 # Results
 - Now we're ready to visualize the results
 - A choropleth map was created to display the correlation between Percentage of People with Bachelor's Degree vs Unemployment Rate and Median Household Income of each state
 - Below is a representation of which states have the highest correlation between Bachelor's Degrees (%) and Median Household Income. In this the darker states have a correlation metric close to 1, while the lighter states have a metric close to -1. 
-  ![income choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/IncomeMap.JPG)
+  ![income choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/IncomeMap.JPG)
 - This means that if we take a state like California with high correlation we can see how the percentage of people with bachelor's degrees affects the median household income in the state.(Seen below)
-![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/CaliIncome.png)
+![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/CaliIncome.png)
 - Let's do the same with the Bachelor's Degrees (%) vs. Unemployment Rate. Again, darker colored states have correlation close to 1, while lighter colors are closer to -1. You can see California as having a negative correlation between the two variables because of how light it is.
-![unemployment choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/unemploymentMap.JPG)
+![unemployment choropleth map](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/unemploymentMap.JPG)
 - Again, looking at california you see how percentage of people with bachelor's degrees affects the unemployment rate in that state.  (Seen below)
-![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/CaliUnemployment.png)
+![california correlation](https://github.com/ibkamara0/bachelors-degree-in-your-state/blob/master/images/CaliUnemployment.png)
 
 # Conclusion
 Based on this project you can see that Bachelor's Degrees affect the Unemployment Rate and the Median Household Income in certain states. Interpreting this further, you can see which states have competive incomes based on your education level, and the states where you may find more job opportunities with your education.
