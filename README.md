@@ -3,6 +3,7 @@ First off, I would like to say I hope this country can truly grow after the trag
 
 Thank you,<br/>
 Ibrahim Kamara
+ibkamara1997@gmail.com
 
 # Background
 Now for a little background on this project. Being a recent graduate and wanted to show my passion and skills to employers, I got curious. I decided to apply some of my skills to a project that appealed to my peers and I. Given we all just got our bachelor's degrees and some of us our looking for employment. I wanted to where our bachelor's degrees most affected income and unemployment rates. Below, I get to take you along the journey of how this question was answered. Enjoy.
