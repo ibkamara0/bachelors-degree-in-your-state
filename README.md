@@ -52,7 +52,7 @@ Example of what was done is see below
 - Based on this project you can see that Bachelor's Degrees affect the Unemployment Rate and the Median Household Income in certain states. Interpreting this further, you can see which states have competive incomes based on your education level, and the states where you may find more job opportunities with your education.
 
 # Closing Remarks
-Feel free to reach out to me at ibkamara1997@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ibrahim-kamara-81b427139/). I would love to hear your feedback as I continue to strengthen my portfolio. Also, I'm on the hunt for entry level positions, I'd love to have a conversation about that as well. Continue to spread love.
+This is a project done for fun and experience. Feel free to reach out to me at ibkamara1997@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ibrahim-kamara-81b427139/). I would love to hear your feedback as I continue to strengthen my portfolio (good or bad). Also, I'm on the hunt for entry level positions, I'd love to have a conversation about that as well. Continue to spread love.
 
 Thank you for reading,<br/>
 Ibrahim Kamara
