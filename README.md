@@ -2,7 +2,7 @@
 First off, I would like to say I hope this country can truly grow after the tragic death of George Floyd. I hope that whoever is reading this can understand that you may not have the same views or come from the same background as the person next to you but, everyone deserves respect. No matter your race, sexual orientation, gender, religion, etc. everyone deserves your respect, and should be treated with such. Hopefully, once we start respecting one another, we can get to the point of loving one another, and accepting our differences. Keep fighting for respect, keep fighting for love, keep fighting for everything good in this country, and hopefully we can grow as a nation.
 
 Thank you,<br/>
-Ibrahim Kamara
+Ibrahim Kamara <br/>
 ibkamara1997@gmail.com
 
 # Background
