@@ -1,7 +1,7 @@
 # Personal Statement
 First off, I would like to say I hope this country can truly grow after the tragic death of George Floyd. I hope that whoever is reading this can understand that you may not have the same views or come from the same background as the person next to you but, everyone deserves respect. No matter your race, sexual orientation, gender, religion, etc. everyone deserves your respect, and should be treated with such. Hopefully, once we start respecting one another, we can get to the point of loving one another, and accepting our differences. Keep fighting for respect, keep fighting for love, keep fighting for everything good in this country, and hopefully we can grow as a nation.
 
-Thank you,
+Thank you,<br/>
 Ibrahim Kamara
 
 # Background
@@ -54,7 +54,7 @@ Example of what was done is see below
 # Closing Remarks
 Feel free to reach out to me at ibkamara1997@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ibrahim-kamara-81b427139/). I would love to hear your feedback as I continue to strengthen my portfolio. Also, I'm on the hunt for entry level positions, I'd love to have a conversation about that as well. Continue to spread love.
 
-Thank you for reading,
+Thank you for reading,<br/>
 Ibrahim Kamara
 
 # Resources and Code
