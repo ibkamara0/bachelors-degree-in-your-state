@@ -6,7 +6,7 @@ Ibrahim Kamara <br/>
 ibkamara1997@gmail.com
 
 # Background
-Now for a little background on this project. Being a recent graduate and wanted to show my passion and skills to employers, I got curious. I decided to apply some of my skills to a project that appealed to my peers and I. Given we all just got our bachelor's degrees and some of us our looking for employment. I wanted to where our bachelor's degrees most affected income and unemployment rates. Below, I get to take you along the journey of how this question was answered. Enjoy.
+Now for a little background on this project. Being a recent graduate and wanted to show my passion and skills to employers, I got curious. I decided to apply some of my skills to a project that appealed to my peers and I. Given we all just got our bachelor's degrees and some of us our looking for employment. I wanted to know where our bachelor's degrees most affected income and unemployment rates. Below, I get to take you along the journey of how this question was answered. Enjoy.
 
 # Overview
 - In this project data will be collected from US Department of Agriculture Economic Research Service on Unemployment, Median Household Income, and Education Attainment
